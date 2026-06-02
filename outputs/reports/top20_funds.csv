@@ -1,0 +1,21 @@
+rank,scheme_name,fund_house,category,return_5yr_pct,alpha,beta,sharpe_ratio,max_drawdown_pct,fund_score,risk_profile
+1,ABSL Small Cap Fund - Regular - Growth,Aditya Birla Sun Life MF,Small Cap,23.8,1.84,0.97,0.9,-23.61,11.187000000000001,Moderate Risk
+2,Nippon India Small Cap Fund - Regular - Growth,Nippon India MF,Small Cap,21.88,0.8,1.03,0.81,-30.87,11.004499999999998,Moderate Risk
+3,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,Small Cap,21.82,1.13,1.04,0.93,-24.78,10.4695,Moderate Risk
+4,Axis Midcap Fund - Regular - Growth,Axis Mutual Fund,Mid Cap,18.94,1.42,1.0,0.8,-32.38,10.251000000000001,Moderate Risk
+5,DSP Midcap Fund - Regular - Growth,DSP Mutual Fund,Mid Cap,19.0,1.02,0.98,0.9,-26.99,9.68,Moderate Risk
+6,Axis Small Cap Fund - Regular - Growth,Axis Mutual Fund,Small Cap,22.62,0.51,1.0,0.84,-14.45,9.574000000000002,Moderate Risk
+7,Mirae Asset Emerging Bluechip Fund - Regular - Growth,Mirae Asset MF,Large & Mid Cap,15.68,1.7,0.99,0.91,-33.15,9.2715,Moderate Risk
+8,DSP Small Cap Fund - Regular - Growth,DSP Mutual Fund,Small Cap,20.61,0.69,0.98,0.8,-17.01,9.154499999999999,Moderate Risk
+9,HDFC Mid-Cap Opportunities Fund - Direct - Growth,HDFC Mutual Fund,Mid Cap,15.85,0.9,1.04,0.8,-32.22,9.045499999999999,Moderate Risk
+10,SBI Small Cap Fund - Regular Plan - Growth,SBI Mutual Fund,Small Cap,20.67,1.23,0.89,0.94,-13.35,8.961500000000001,Moderate Risk
+11,Kotak Emerging Equity Fund - Regular - Growth,Kotak Mahindra MF,Mid Cap,17.75,1.91,1.0,0.96,-21.92,8.9265,Moderate Risk
+12,ICICI Pru Midcap Fund - Regular - Growth,ICICI Prudential MF,Mid Cap,17.55,0.89,1.0,0.95,-21.84,8.642,Moderate Risk
+13,HDFC Top 100 Fund - Direct Plan - Growth,HDFC Mutual Fund,Large Cap,13.48,1.13,0.97,0.96,-33.5,8.437,Moderate Risk
+14,Axis Bluechip Fund - Regular - Growth,Axis Mutual Fund,Large Cap,14.14,1.41,0.91,0.85,-27.54,8.1065,Moderate Risk
+15,SBI Bluechip Fund - Direct Plan - Growth,SBI Mutual Fund,Large Cap,14.23,1.78,0.87,0.81,-24.43,7.895,Moderate Risk
+16,HDFC Mid-Cap Opportunities Fund - Regular - Growth,HDFC Mutual Fund,Mid Cap,17.69,0.95,0.91,0.87,-13.67,7.875000000000001,Moderate Risk
+17,ICICI Pru Bluechip Fund - Direct - Growth,ICICI Prudential MF,Large Cap,13.02,0.88,1.03,1.03,-26.59,7.5465,Moderate Risk
+18,SBI Bluechip Fund - Regular Plan - Growth,SBI Mutual Fund,Large Cap,14.45,0.87,0.89,0.88,-21.7,7.532499999999999,Moderate Risk
+19,Nippon India ETF Nifty 50 BeES,Nippon India MF,Index/ETF,12.31,1.8,1.04,0.91,-26.75,7.4670000000000005,Moderate Risk
+20,Mirae Asset Tax Saver Fund - Regular - Growth,Mirae Asset MF,ELSS,14.26,0.54,0.98,0.8,-22.62,7.462999999999999,Moderate Risk

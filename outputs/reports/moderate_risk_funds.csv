@@ -1,0 +1,11 @@
+amfi_code,scheme_name,fund_house,category,plan,return_1yr_pct,return_3yr_pct,return_5yr_pct,benchmark_3yr_pct,alpha,beta,sharpe_ratio,sortino_ratio,std_dev_ann_pct,max_drawdown_pct,aum_crore,expense_ratio_pct,morningstar_rating,risk_grade,fund_score,risk_profile,rank
+101207,ABSL Small Cap Fund - Regular - Growth,Aditya Birla Sun Life MF,Small Cap,Regular,24.93,22.38,23.8,20.54,1.84,0.97,0.9,1.47,25.0,-23.61,41613,1.53,5,Very High,11.187000000000001,Moderate Risk,1
+118634,Nippon India Small Cap Fund - Regular - Growth,Nippon India MF,Small Cap,Regular,21.3,20.15,21.88,19.35,0.8,1.03,0.81,1.14,25.0,-30.87,43630,1.53,4,Very High,11.004499999999998,Moderate Risk,2
+119599,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,Small Cap,Direct,20.59,23.14,21.82,22.01,1.13,1.04,0.93,1.67,25.0,-24.78,36061,0.72,4,Very High,10.4695,Moderate Risk,3
+119094,Axis Midcap Fund - Regular - Growth,Axis Mutual Fund,Mid Cap,Regular,14.88,15.18,18.94,13.76,1.42,1.0,0.8,1.18,19.0,-32.38,28996,1.38,5,High,10.251000000000001,Moderate Risk,4
+149323,DSP Midcap Fund - Regular - Growth,DSP Mutual Fund,Mid Cap,Regular,14.12,17.16,19.0,16.14,1.02,0.98,0.9,1.5,19.0,-26.99,37835,1.61,4,High,9.68,Moderate Risk,5
+119095,Axis Small Cap Fund - Regular - Growth,Axis Mutual Fund,Small Cap,Regular,21.97,20.98,22.62,20.47,0.51,1.0,0.84,1.4,25.0,-14.45,21545,1.38,4,Very High,9.574000000000002,Moderate Risk,6
+148568,Mirae Asset Emerging Bluechip Fund - Regular - Growth,Mirae Asset MF,Large & Mid Cap,Regular,14.91,14.56,15.68,12.86,1.7,0.99,0.91,1.55,16.0,-33.15,49046,1.52,5,Moderately High,9.2715,Moderate Risk,7
+149324,DSP Small Cap Fund - Regular - Growth,DSP Mutual Fund,Small Cap,Regular,20.2,20.08,20.61,19.39,0.69,0.98,0.8,1.23,25.0,-17.01,35124,1.52,4,Very High,9.154499999999999,Moderate Risk,8
+125498,HDFC Mid-Cap Opportunities Fund - Direct - Growth,HDFC Mutual Fund,Mid Cap,Direct,19.98,15.29,15.85,14.39,0.9,1.04,0.8,1.38,19.0,-32.22,18792,0.78,4,High,9.045499999999999,Moderate Risk,9
+119598,SBI Small Cap Fund - Regular Plan - Growth,SBI Mutual Fund,Small Cap,Regular,24.56,23.39,20.67,22.16,1.23,0.89,0.94,1.35,25.0,-13.35,19259,1.43,5,Very High,8.961500000000001,Moderate Risk,10
